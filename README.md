@@ -13,6 +13,7 @@ Skills: NEXT JS / REACT / JS / HTML / CSS / FIGMA / PYTHON / C++
 - 📫 How to reach me: hirmh.11@gmail.com 
 - ⚡ Fun fact:  Fun fact ppl think my game with girls is so good,lol hahahaha 
 
+<img align= right src="https://i.imgflip.com/7l66qw.jpg" height=200 >
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/httpfang)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/harsh-verma-5a9b4b242//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fang.http/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://harshvermawork.great-site.net/)  
 
